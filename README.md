@@ -23,3 +23,4 @@ __*게임*__<br>
 2. 순서가 있는 리스트
 [노션](https://www.notion.so/c5964fda21284115a25c2ddc3f2ebaba?pvs=4)
 [유튜브](https://www.youtube.com/channel/UCZ8hyasbgPhCvc5nBT8spSQ)
+작업물 구글 드라이브 링크
